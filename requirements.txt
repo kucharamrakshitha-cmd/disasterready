@@ -1,0 +1,6 @@
+fastapi==0.142.2
+uvicorn==0.54.0
+requests==2.34.2
+qdrant-client==1.19.1
+fastembed==0.8.1
+python-dotenv==1.2.4
