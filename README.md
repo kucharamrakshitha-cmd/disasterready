@@ -7,9 +7,17 @@ DisasterReady trains people for disasters, certifies volunteer rescuers, and tur
 Built solo for the **Stop Prompting, Solo Agents Hackathon** (AI House x HiDevs).
 **Track: Collaborative Multi-Agent Workflows.**
 
-- **Live demo:** ADD_YOUR_DEPLOYED_URL_HERE
+- **Live demo:** https://disasterready-yqoa.onrender.com
 - **Demo video:** ADD_YOUR_VIDEO_LINK_HERE
-- **Control-room demo login:** `control@disasterready.demo` / `ready2026`
+- **Control-room login:** go to https://disasterready-yqoa.onrender.com/control and use `control@disasterready.demo` / `ready2026` (also shown on the login page)
+- **Note:** the site is on a free plan and sleeps when idle, so the first load can take up to a minute.
+## Try it in two minutes
+1. Open the control room and log in with the demo login above.
+2. Under Tools, type a report such as "Fire in a warehouse in LB Nagar. Six workers are trapped inside." and click Send report.
+3. Watch the incident appear with the triage, shelter, rescue team, and the agent steps.
+4. Ask the Manager Agent: "Which incidents are most severe?"
+
+To report by voice, install the Omi app, open Settings, Developer Settings, Webhooks, turn on Conversation Events, and set the Endpoint URL to `https://disasterready-yqoa.onrender.com/omi/conversation`. Then record a report in Omi.
 
 ## The problem
 
