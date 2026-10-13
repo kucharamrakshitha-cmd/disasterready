@@ -8,7 +8,7 @@ Built solo for the **Stop Prompting, Solo Agents Hackathon** (AI House x HiDevs)
 **Track: Collaborative Multi-Agent Workflows.**
 
 - **Live demo:** https://disasterready-yqoa.onrender.com
-- **Demo video:** ADD_YOUR_VIDEO_LINK_HERE
+- **Demo video:** https://youtu.be/wZyEFH1GZ0U?si=jvRIyLbcAOuI66eb
 - **Control-room login:** go to https://disasterready-yqoa.onrender.com/control and use `control@disasterready.demo` / `ready2026` (also shown on the login page)
 - **Note:** the site is on a free plan and sleeps when idle, so the first load can take up to a minute.
 ## Try it in two minutes
